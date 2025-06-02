@@ -90,7 +90,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.multit.App</mainClass>
+              <mainClass>mvn8jenk.App</mainClass>
             </manifest>
           </archive>
         </configuration>
